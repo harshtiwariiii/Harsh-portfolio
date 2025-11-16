@@ -27,6 +27,7 @@ export default function Home() {
     { img: linkedinLogo, title: 'LinkedIn', link: 'https://www.linkedin.com/in/harsh-tiwari-7768b3247/' },
     { img: gmailLogo, title: 'Email', link: 'mailto:harshtiwariii01032004@gmail.com' },
     { img: whatsappLogo, title: 'WhatsApp', link: 'https://wa.me/918126387810' },
+    { img: instagramLogo, title: 'Instagram', link: 'https://www.instagram.com/harsh_tiwariii?igsh=aGowM2g2Nm1xcm1n' },
   ]
 
   return (
